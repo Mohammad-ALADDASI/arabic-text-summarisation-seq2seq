@@ -23,6 +23,13 @@ The model is trained and evaluated using multiple Arabic summarisation datasets:
 * **AraSum**
 * **Arabic Text Summarisation Dataset**
 * **Egyptian Arabic Summarisation Dataset**
+  
+Google Drive mirror:
+https://drive.google.com/drive/folders/182T2UE3TQk2EKFrDtiCfQmQ2yOD7yg8W?usp=sharing
+
+After downloading, place the files in:
+
+``dataset/``
 
 These datasets contain **article–summary pairs** that allow the model to learn how to generate summaries.
 
@@ -220,11 +227,12 @@ This project is for **academic and research purposes**.
 
 This project was developed as part of a **Natural Language Processing course project**.
 
-* Mohammad O. ALADDASI
-* Hamza Rashdan
-* Saif Sharkasi 
+* Mohammad O. ALADDASI - moh20220630@std.psut.edu.jo
+* Hamza Rashdan - ham20230580@std.psut.edu.jo
+* Saif AlSharkasi - sai20230594@std.psut.edu.jo
 
-Supervisor: Instructor Name
+
+**Supervisor**: Prof Mohammad Azzeh - m.azzeh@psut.edu.jo
 
 
 
