@@ -1,0 +1,2 @@
+﻿rouge1_precision_arabic,rouge1_recall_arabic,rouge1_f1_arabic,rouge2_precision_arabic,rouge2_recall_arabic,rouge2_f1_arabic,rougeL_precision_arabic,rougeL_recall_arabic,rougeL_f1_arabic,num_samples
+0.318644203019203,0.2066250457645421,0.2393432743307573,0.07045440670440671,0.051683604362911736,0.05649314473586134,0.2659273365523365,0.1802783524921599,0.20530714548906723,200
